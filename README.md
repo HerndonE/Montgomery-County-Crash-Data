@@ -9,11 +9,12 @@ https://github.com/HerndonE/VideoGameSalesDataScience/blob/master/Video%20Game%2
 The application can be run from within jupyter notebook
 
 # Contributors
-Course: CST - 383    
+Course: CST - 383 
+Submission: September 2019
   
 <thead>
 <tr>
 <th align="center"><a href="https://github.com/HerndonE"><img src="https://avatars2.githubusercontent.com/u/16469939?s=460&v=4" width="100px;" style="max-width:100%;"><br><sub><b>Ethan Herndon</b></sub></a><br></th>
-<th align="center"><a href="https://github.com/alicias455"><img src="https://avatars0.githubusercontent.com/u/54601838?s=400&v=4" width="100px;" style="max-width:100%;"><br><sub><b>Frank Piva</b></sub></a><br></th>
+<th align="center"><a href="https://github.com/frankpiva"><img src="https://avatars1.githubusercontent.com/u/10471543?s=400&v=4" width="100px;" style="max-width:100%;"><br><sub><b>Frank Piva</b></sub></a><br></th>
 </tr>
 </thead>
