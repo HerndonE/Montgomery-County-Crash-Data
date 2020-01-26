@@ -9,7 +9,7 @@ https://github.com/HerndonE/Montgomery-County-Crash-Data/blob/master/project1.ip
 The application can be run from within jupyter notebook
 
 # Contributors
-Course: CST - 383 
+Course: CST - 383     
 Submission: September 2019
   
 <thead>
